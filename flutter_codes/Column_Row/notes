@@ -1,0 +1,10 @@
+Row  => 
+          main axis  =  horizontal
+          cross axis =  vertical 
+
+Column  => 
+          main axis =  vertical
+          cross axis = horizontal      
+          
+          
+        We can use row inside a column or vise versa 
