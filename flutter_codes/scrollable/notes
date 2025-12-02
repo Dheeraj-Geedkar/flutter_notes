@@ -1,0 +1,9 @@
+Use to make the content scrollable in flutter
+
+A problem arises when the content size is greater than the sizes of screen And we get a error over render
+
+The solution for over render problem is to bind the container row column inside the single child scroll view widget  .
+
+By default the direction for scrolling is vertical 
+
+To make the scrolling direction horizontal we have to use scrollDirection: Axis.horizontal Inside the scroll child view widget 
